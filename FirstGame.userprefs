@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{860886D5-21B3-47CF-8E08-7CD0D508ED98}|Default">
+  <MonoDevelop.Ide.ItemProperties.FirstGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstGame/Modle/Player.cs">
+    <Files>
+      <File FileName="FirstGame/Game1.cs" Line="52" Column="1" />
+      <File FileName="FirstGame/Modle/Player.cs" Line="4" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstGame" expanded="True">
+            <Node name="FirstGame" expanded="True">
+              <Node name="Modle" expanded="True">
+                <Node name="Player.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
